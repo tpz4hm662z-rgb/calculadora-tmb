@@ -146,3 +146,7 @@ Proyecto desarrollado dentro del ecosistema **Herramientas360**.
 Proyecto de código abierto para fines educativos y de aprendizaje.
 
 © 2026 Herramientas360
+
+## Versión publicada
+
+1.0.1 — 31 de julio de 2026.
