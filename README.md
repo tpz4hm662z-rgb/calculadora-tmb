@@ -83,7 +83,7 @@ calculadora-tmb/
 Clonar el repositorio
 
 ```bash
-git clone https://github.com/TPZ4HM662Z-RGB/calculadora-tmb.git
+git clone https://github.com/tpz4hm662z-rgb/calculadora-tmb.git
 ```
 
 Entrar en la carpeta

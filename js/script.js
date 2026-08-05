@@ -54,6 +54,12 @@ const errorActividad = document.getElementById("errorActividad");
    CONFIGURACIÓN
 ===================================================== */
 
+const CONFIG = {
+    herramienta: {
+        url: "https://tpz4hm662z-rgb.github.io/calculadora-tmb/"
+    }
+};
+
 const LIMITES = {
     edad: {
         minimo: 14,
